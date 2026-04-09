@@ -1,13 +1,13 @@
 """
-GUI Calculator - Tkinter-based graphical calculator.
+GUI Calculator graphical calculator.
+it using Tkinter for the GUI and math module for square root function.
 
-This program creates a simple calculator GUI with basic arithmetic operations (+, -, *, /),
-decimal point, clear, delete, square root, and equals. 
-WARNING: Uses eval() for expression evaluation - for demo only, not production due to security risks.
-Replace with safer parser like sympy for real use.
-
-Author: [Your Name]
-Date: [Current Date]
+AUTOR: [KAMONDO KIPIMO AUGUSTIN]
+R.number: [25/BSE/BU/R/1006]
+Date: [2024-06-01]
+BUGEMA UNIVERSITY (KAMPALA CUMPUS)
+COURSE: [PYTHON PROGRAMMING]
+YEAR OF STUDY: [1ST YEAR, SECOND SEMESTER]
 """
 
 from tkinter import *
