@@ -4,7 +4,6 @@ it using Tkinter for the GUI and math module for square root function.
 
 AUTOR: [KAMONDO KIPIMO AUGUSTIN]
 R.number: [25/BSE/BU/R/1006]
-Date: [2024-06-01]
 BUGEMA UNIVERSITY (KAMPALA CAMPUS)
 COURSE: [PYTHON PROGRAMMING]
 YEAR OF STUDY: [1ST YEAR, SECOND SEMESTER]
