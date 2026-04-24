@@ -12,6 +12,9 @@ YEAR OF STUDY: [1ST YEAR, SECOND SEMESTER]
 
 from tkinter import *
 import math
+# Main application window
+main = Tk()
+main.title("Calculator")
 
 # Global variables
 # operator: String to build the mathematical expression entered by user
@@ -68,9 +71,9 @@ def button_equal():
         input_value.set("Error")
         operator = ""
 
-# Main application window
-main = Tk()
-main.title("Calculator")
+
+# main = Tk()
+# main.title("Calculator")
 
 # Display Entry widget
 display_text = Entry(main, font=("arial", 20," bold"), textvariable=input_value, bd=15, insertwidth=2, 
